@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+groq
+pydantic
+requests
+
